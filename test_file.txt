@@ -1,2 +1,1 @@
-this is my test file in master.
-I am editing this file in branch.
+this is my test file in master. I edited it in branch.
