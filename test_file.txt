@@ -1,2 +1,1 @@
-this is my test file in master. I edited it in branch.
-This is second line. I added in branch in second commit.
+edited from branch_1
