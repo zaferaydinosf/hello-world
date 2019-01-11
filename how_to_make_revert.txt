@@ -1,0 +1,14 @@
+***when you want to revert to a previous commit in git:
+
+** Temporary Revert Back
+If you want to temporarily go back to this commit, then come back to where you are.
+Right click on the commit you want to revert to and click on "checkout".
+this will create a HEAD tag and you will see local files has changed.
+* if you want to come back to original commit again; 
+you should right click on the lastest commit and do checkout
+after that you should double click the brach and say yes to the warning message
+this will delete your temp HEAD tag and return you to the lastest commit
+
+* Permanent Revert Back
+This will add commits to revert all your work since this commit
+Right click on the commit you want to revert to and click on "Reset <> to this commit".
