@@ -5,7 +5,8 @@ edited from new feature
 new feature 2
 
 br_nf_2
-br_nf_3
+f/f1
+
 
 br_nf_4
 br_nf_5
@@ -14,4 +15,5 @@ br_nf_7
 
 edited from github
 
-edited from f1
+edited from feature/f1
+this is new line for f/f1
