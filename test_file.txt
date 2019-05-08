@@ -1,8 +1,4 @@
-edited by sourcetree
-edited_hello_world_2
-edited again
-edited from new feature
-new feature 2
+this is rebase test.
 
 br_nf_2
 br_nf_3
@@ -14,4 +10,4 @@ br_nf_7
 
 edited from github
 
-edited from f1
+edited from feauture/f2
